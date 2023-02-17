@@ -1,5 +1,5 @@
-# POSB-Everyday-Card-Fraud-Detection-
-Scripts to detect suspicious transactions on POSB Everyday Card
+# DBS-POSB-Credit-Card-Fraud-Detection
+Scripts to detect suspicious transactions on DBS/POSB credit cards
 1. Extract transaction data from the transaction page using Scrapy and XPath.  
 2. Detection of suspicious transactions based on descriptions of transactions:
 - Build a vocabulary by applying CountVectorizer to the collection of transaction descriptions
